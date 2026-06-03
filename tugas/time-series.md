@@ -457,7 +457,7 @@ print(correlations)
 
 Hasil korelasi (nilai > 0.5 dianggap signifikan):
 
-Dari hasil ini, fitur **t-1 hingga t-11** memiliki korelasi di atas 0.5 terhadap label. Nilai korelasi tertinggi ada pada **t-1 (0.8240)**, menunjukkan bahwa nilai NO₂ kemarin adalah prediktor terkuat untuk nilai hari ini.
+ Nilai korelasi tertinggi ada pada **t-1 (0.829295)**, menunjukkan bahwa nilai NO₂ kemarin adalah prediktor terkuat untuk nilai hari ini.
 
 ---
 
