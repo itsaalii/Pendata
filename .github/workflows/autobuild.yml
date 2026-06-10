@@ -42,6 +42,9 @@ jobs:
           pip install seaborn
           pip install openeo
           pip install netcdf4
+          pip install shap
+          pip install lightgbm
+          pip install skforecast
       - name: Build HTML Assets
         run: jupyter-book build .
       - name: Upload artifact

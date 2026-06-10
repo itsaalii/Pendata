@@ -31,3 +31,4 @@ chapters:
     - file: tugas/random-forest
     - file: tugas/linear-regression
     - file: tugas/time-series
+    - file: tugas/forecast
