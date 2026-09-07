@@ -106,6 +106,8 @@ s5post = connection.load_collection(
         "east": 112.10,
         "north": -7.40
     },
+    
+    # Disesuaikan dengan data yang dibutuhkan
     bands=["NO2"],
 )
 
