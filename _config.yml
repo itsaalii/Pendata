@@ -3,7 +3,7 @@
 
 title: 24-119 Muhammad Ali Murtadho
 author: 24-119 Muhammad Ali Murtadho
-logo: profile.png
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
